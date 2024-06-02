@@ -47,3 +47,11 @@ u
 Eapp/src/main/java/com/example/pocketnews/repository/NewsRepository.kt,9\c\9c0a0417f9a00981b41dfbe4e8a4af98e3d4f1dd
 p
 @app/src/main/java/com/example/pocketnews/adapters/NewsAdapter.kt,e\0\e0e778ba57062451281569d973bdf9ccf1511f45
+i
+9app/src/main/java/com/example/pocketnews/util/Resource.kt,3\7\3747e7deded676c9ac3d9871e0c04684d711b44c
+s
+Capp/src/main/java/com/example/pocketnews/ViewModel/NewsViewModel.kt,9\5\95e959e3c511aa2904f6dcf5fd0303687c7f80a9
+z
+Japp/src/main/java/com/example/pocketnews/ViewModel/NewsViewModelFactory.kt,b\5\b5487e11b24be75068c9ecccc86b8b659ae0a780
+‚
+Rapp/src/main/java/com/example/pocketnews/ViewModel/NewsViewModelProviderFactory.kt,9\8\986b961fc2eaf288ffb381a364bb4ca8c8e62c40
