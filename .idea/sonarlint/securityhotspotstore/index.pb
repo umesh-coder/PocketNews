@@ -37,3 +37,9 @@ g
 7app/src/main/java/com/example/pocketnews/api/NewsAPI.kt,0\1\018d2ab04e9339c3c54d1e2b4e7358ceb795e8a5
 p
 @app/src/main/java/com/example/pocketnews/api/RetrofitInstance.kt,5\4\54945a09f015a1873c74f8070c121da790fb55a0
+o
+?app/src/main/java/com/example/pocketnews/database/ArticleDao.kt,b\3\b34f95366c59d747164339d317c8d2319c627931
+o
+?app/src/main/java/com/example/pocketnews/database/Converters.kt,7\2\72f33102959619941b955b256439aff665a51057
+t
+Dapp/src/main/java/com/example/pocketnews/database/ArticleDatabase.kt,a\b\abada7781a7f4b777b4890d04ac3a6d9ce292870
