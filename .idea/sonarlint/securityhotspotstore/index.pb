@@ -43,3 +43,7 @@ o
 ?app/src/main/java/com/example/pocketnews/database/Converters.kt,7\2\72f33102959619941b955b256439aff665a51057
 t
 Dapp/src/main/java/com/example/pocketnews/database/ArticleDatabase.kt,a\b\abada7781a7f4b777b4890d04ac3a6d9ce292870
+u
+Eapp/src/main/java/com/example/pocketnews/repository/NewsRepository.kt,9\c\9c0a0417f9a00981b41dfbe4e8a4af98e3d4f1dd
+p
+@app/src/main/java/com/example/pocketnews/adapters/NewsAdapter.kt,e\0\e0e778ba57062451281569d973bdf9ccf1511f45
