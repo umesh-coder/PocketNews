@@ -4,7 +4,6 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.NavHostFragment
-import androidx.navigation.fragment.findNavController
 import androidx.navigation.ui.setupWithNavController
 import com.example.pocketnews.R
 import com.example.pocketnews.ViewModel.NewsViewModel
@@ -28,7 +27,19 @@ class NewsActivity : AppCompatActivity() {
         newsViewModel = ViewModelProvider(this, viewModelProviderFactory).get(NewsViewModel::class.java)
 
         val navHostFragment = supportFragmentManager.findFragmentById(R.id.newsNavHostFragment) as NavHostFragment
-        val navController = navHostFragment.findNavController()
+        val navController = navHostFragment.navController
+
+
         binding.bottomNavigationView.setupWithNavController(navController)
+
+
+
+
+
+
+
+
     }
+
+
 }

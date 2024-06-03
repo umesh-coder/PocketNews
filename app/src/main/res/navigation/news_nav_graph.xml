@@ -2,13 +2,12 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/news_nav_graph.xml"
-    app:startDestination="@id/headlinesFragment2">
+    app:startDestination="@id/headlinesFragment">
 
     <fragment
         android:id="@+id/articleFragment"
         android:name="com.example.pocketnews.ui.fragments.ArticleFragment"
         android:label="ArticleFragment">
-
 
         <argument
             android:name="article"
@@ -17,11 +16,11 @@
 
     </fragment>
     <fragment
-        android:id="@+id/headlinesFragment2"
+        android:id="@+id/headlinesFragment"
         android:name="com.example.pocketnews.ui.fragments.HeadlinesFragment"
         android:label="HeadlinesFragment" >
         <action
-            android:id="@+id/action_headlinesFragment2_to_articleFragment"
+            android:id="@+id/action_headlinesFragment_to_articleFragment"
             app:destination="@id/articleFragment" />
     </fragment>
     <fragment
@@ -39,5 +38,6 @@
         <action
             android:id="@+id/action_favourtiesFragment_to_articleFragment"
             app:destination="@id/articleFragment" />
+
     </fragment>
 </navigation>

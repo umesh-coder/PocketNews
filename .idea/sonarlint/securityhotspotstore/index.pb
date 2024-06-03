@@ -1,12 +1,8 @@
 
-h
-8app/src/main/java/com/example/pocketnews/MainActivity.kt,d\f\dfbf6f2a1dca79dcd5888aae1802028987a4887a
 @
 build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
 D
 app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
-h
-8app/src/main/java/com/example/pocketnews/NewsActivity.kt,b\2\b27f3a54036982cca3117d0d61fd5efd57265b4a
 k
 ;app/src/main/java/com/example/pocketnews/ui/NewsActivity.kt,3\2\32e2540f0b63b0865dde17b55a0c0eda649dd304
 x
@@ -19,12 +15,6 @@ w
 Gapp/src/main/java/com/example/pocketnews/ui/fragments/SearchFragment.kt,3\b\3b3e8edc019cf6fbdb9e350d56c41823d426b4b1
 P
  app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
-c
-3app/src/main/java/com/example/pocketnews/Article.kt,1\0\10b642317d1aa99673ad76ccb358118312a210e5
-h
-8app/src/main/java/com/example/pocketnews/NewsResponse.kt,6\7\675d2d1b8ad78a74de4eb76536e41d683523cf43
-b
-2app/src/main/java/com/example/pocketnews/Source.kt,8\7\8704249984d84769696452470c8e9b7b2668ed20
 j
 :app/src/main/java/com/example/pocketnews/models/Article.kt,c\b\cbbbbf97faf5aa32200f04779825c5d0f0c419fa
 o
@@ -51,7 +41,7 @@ i
 9app/src/main/java/com/example/pocketnews/util/Resource.kt,3\7\3747e7deded676c9ac3d9871e0c04684d711b44c
 s
 Capp/src/main/java/com/example/pocketnews/ViewModel/NewsViewModel.kt,9\5\95e959e3c511aa2904f6dcf5fd0303687c7f80a9
-z
-Japp/src/main/java/com/example/pocketnews/ViewModel/NewsViewModelFactory.kt,b\5\b5487e11b24be75068c9ecccc86b8b659ae0a780
 ‚
 Rapp/src/main/java/com/example/pocketnews/ViewModel/NewsViewModelProviderFactory.kt,9\8\986b961fc2eaf288ffb381a364bb4ca8c8e62c40
+i
+9app/src/main/java/com/example/pocketnews/util/Debounce.kt,d\9\d92f27116dedd4b4f8c7cc679998edb8ffea92e0
